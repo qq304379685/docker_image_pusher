@@ -8,3 +8,4 @@ kubesphere/prometheus-operator:v0.55.1
 kubesphere/ks-controller-manager:v3.4.1
 kubesphere/prometheus-config-reloader:v0.55.1
 prom/alertmanager:v0.23.0
+kubesphere/notification-manager:v2.3.0
