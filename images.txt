@@ -11,3 +11,4 @@ prom/alertmanager:v0.23.0
 kubesphere/notification-manager:v2.3.0
 prom/prometheus:v2.39.1
 kubesphere/kubectl:v1.21.0
+nginx-ingress-controller:v1.3.1
