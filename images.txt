@@ -1,3 +1,4 @@
-rocketmq:5.2.0
-rocketmq-console-ng:latest
+apache/rocketmq:5.2.0
+styletang/rocketmq-console-ng:latest
+
 
