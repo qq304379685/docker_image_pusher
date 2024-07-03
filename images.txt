@@ -1,1 +1,1 @@
-nginx:1.25.2
+busybox:stable-musl
