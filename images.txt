@@ -1,1 +1,1 @@
-kubesphere/k8s-dns-node-cache:1.15.12
+docker.io/library/openjdk:17-oraclelinux8
